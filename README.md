@@ -1,12 +1,7 @@
 # Adopt-a-Hydrant
 
-[![Build Status](http://img.shields.io/travis/codeforamerica/adopt-a-hydrant.svg)][travis]
-[![Dependency Status](http://img.shields.io/gemnasium/codeforamerica/adopt-a-hydrant.svg)][gemnasium]
+[![Dependency Status](https://beta.gemnasium.com/badges/github.com/BrandonKlotz/adopt-a-hydrant.svg)](https://beta.gemnasium.com/projects/github.com/BrandonKlotz/adopt-a-hydrant)
 [![Coverage Status](http://img.shields.io/coveralls/codeforamerica/adopt-a-hydrant.svg)][coveralls]
-
-[travis]: http://travis-ci.org/codeforamerica/adopt-a-hydrant
-[gemnasium]: https://gemnasium.com/codeforamerica/adopt-a-hydrant
-[coveralls]: https://coveralls.io/r/codeforamerica/adopt-a-hydrant
 
 Claim responsibility for shoveling out a fire hydrant after it snows.
 
