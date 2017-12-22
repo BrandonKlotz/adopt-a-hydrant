@@ -1,6 +1,6 @@
 # Adopt-a-Hydrant
 
-[![Dependency Status](https://beta.gemnasium.com/badges/github.com/BrandonKlotz/adopt-a-hydrant.svg)]
+![Dependency Status](https://beta.gemnasium.com/badges/github.com/BrandonKlotz/adopt-a-hydrant.svg)
 
 Claim responsibility for shoveling out a fire hydrant after it snows.
 
